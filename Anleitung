@@ -1,0 +1,7 @@
+1. GesichterFinder.py anklicken
+2. Dann oben rechts auf "Download raw file" klicken
+3. https://www.python.org/downloads/ <- Auf den Link klicken und dann "download python"
+4. Öffnen Sie als nächstes Powershell und führen Sie den Befehl "pip install opencv-python" aus (alternativ "pip3 install opencv-python")
+5. Falls "pip" nicht vorhanden ist, führen Sie diesen Befehl aus "py -m ensurepip --upgrade"
+6. Führen Sie dann diesen Befehl aus um das Skript auszuführen "py GesichterFinder.py" (Falls Sie "GesichterFinder.py" unter downloads haben,
+müssen Sie je nachdem wo Sie die Datei haben den Befehl anpassen. -> "\Users\Name\dowloads...."
